@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d9ef452-3972-4ced-a8cc-8cd7891aabd3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ATMdynamicdata/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Customeraccounts.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Menu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Names.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Withdrawl.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ATMdynamicdata/Customeraccounts.class" afterPath="$PROJECT_DIR$/out/production/ATMdynamicdata/Customeraccounts.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ATMdynamicdata/Menu.class" afterPath="$PROJECT_DIR$/out/production/ATMdynamicdata/Menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ATMdynamicdata/Names.class" afterPath="$PROJECT_DIR$/out/production/ATMdynamicdata/Names.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ATMdynamicdata/Withdrawl.class" afterPath="$PROJECT_DIR$/out/production/ATMdynamicdata/Withdrawl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7d9ef452-3972-4ced-a8cc-8cd7891aabd3" name="Default" comment="" />
     <ignored path="ATMdynamicdata.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
