@@ -1,23 +1,26 @@
+
 import java.util.Scanner;
 
 
 
-public class Main {
+public class Main extends ATM {
 
+    public static Scanner scanner = new Scanner(System.in);
+    public static Scanner scanner0 = new Scanner(System.in);
     public static Main main = new Main();
-    public static Scanner scanner = new Scanner (System.in);
-    public static Customeraccounts customeraccounts = new Customeraccounts();
-    public static Names name = new Names();
-    public static Menu menu = new Menu();
-    public static Withdrawl withdrawl = new Withdrawl();
+    public static ATM atm = new ATM();
+
 
     public static void main(String[] args) {
+do {
+    atm.atm();
+    boolean weRunthis = true;
 
-        System.out.println("Welcome, customer...");
+    do {
+        weRunthis = atm.menuMenu();
+    } while (weRunthis);
+}while (true);
 
-        Customeraccounts.customeraccounts();
-        Names.names();
-        Withdrawl.withdrawl();
 
     }
 }
